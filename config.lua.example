@@ -1,0 +1,5 @@
+SSID="Your ssid here"
+PASSWORD="your wifi password here"
+NAME="device name"
+MQTT_BROKER="openhab.host.com"
+MQTT_PORT=1883
